@@ -1,0 +1,32 @@
+.home__logo {
+    margin-left: -43px;
+}
+
+.date_change {
+    text-align: right;
+    width: 100%;
+    display: inline-block;
+    padding-right: 30px;
+}
+
+.link_logo {
+    vertical-align: text-bottom;
+    margin-right: .25em;
+    width: 20px;
+}
+
+.content {
+    padding-top: 36px;
+}
+
+@media screen and (max-width: 768px) {
+    .home__logo {
+        margin-left: -11px;
+    }
+    .date_change {
+        padding-right: 10px;
+    }
+    .content {
+        padding-top: 20px;
+    }
+}
