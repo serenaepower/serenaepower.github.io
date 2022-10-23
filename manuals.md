@@ -39,6 +39,8 @@
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> DJ4-D (`RU`)](https://disk.yandex.ru/i/YYX0EkR4tKe3Qw)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> DJ4-D (JP)](http://www.nissan.co.jp/OPTIONAL-PARTS/NAVI_AUDIO/NAVI/PDF/driverecorder_G20A0-C998A.pdf)
 
+[<i class="fa fa-youtube-play" aria-hidden="true"></i> Видео по регистратору](https://www.youtube.com/watch?v=59tIhQ-1tSY)
+
 ## Штатная сигнализация
 
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Штатная сигнализация с автозапуском(JP)](https://disk.yandex.ru/i/w1bdbXWOtShPQA)
