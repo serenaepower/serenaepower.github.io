@@ -16,22 +16,20 @@
 ## Автомобиль
 
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Краткая инструкция 2018 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1803/manual_t00qg5tl1a.pdf)
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Краткая инструкция 2018 (`RU`)](https://disk.yandex.ru/i/xF6JWpXeF3hXig)
-
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Краткая инструкция 2019 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1908/manual_t00qg5tl2a.pdf)
 
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2018 (`RU`)](https://disk.yandex.ru/i/xF6JWpXeF3hXig)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2018 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1803/manual_t00um5tl0a.pdf)
-
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2019 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1908/manual_t00um5tl1a.pdf)
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Интерактивная инструкция 2018 (JP)](http://www.nissan.co.jp/OPTIONAL-PARTS/NAVIOM/SERENA_SPECIAL/E-POWER/1809/index.html)
-
 [<i class="fa fa-external-link" aria-hidden="true"></i> Интерактивная инструкция 2019 (JP)](http://www.nissan.co.jp/OPTIONAL-PARTS/NAVIOM/SERENA_SPECIAL/E-POWER/1908/index.html)
 
 > Интерактивная инструкция хороша тем, что переводится в онлайне (см. начало данной страницы), а также можно кликнуть на иконку и получить описание и расшифровку, если это ошибка. Пример:
 
-<img src="/assets/img/interactive_manual_example.png" width="200" alt=""/>
+<img src="/assets/content/interactive_manual_example.png" height="180" alt=""/>
 
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Русскоязычная инструкция к Nissan Note, который во многом схож с Сереной (`RU`)](https://disk.yandex.ru/i/_I9j8UzMDnJQsQ)
  
 ## Регистратор
 
@@ -51,4 +49,4 @@
 
 > Пункты с `*` для тех, у кого есть пропилот.
 
-![](/assets/img/menu.png ":no-zoom")
+![](/assets/content/menu.png ":no-zoom")

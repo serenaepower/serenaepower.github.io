@@ -2,7 +2,7 @@
 
 > Подскажите как снимаются крючки для ковриков
 
-<img src="/assets/img/hook.jpg" width="200" alt=""/>
+<img src="/assets/content/hook.jpg" height="180" alt=""/>
 
 ## Меню
 
