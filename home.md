@@ -6,3 +6,8 @@
 
 <small class="date_change">Последнее обновление: {docsify-updated}</small>
 
+<div class="mobile_help">
+
+[filename](_sidebar.md ':include')
+
+</div>

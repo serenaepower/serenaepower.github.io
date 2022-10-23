@@ -19,14 +19,49 @@
     padding-top: 36px;
 }
 
+.mobile_help {
+    display: none;
+    line-height: 2em;
+}
+
+.mobile_help ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.mobile_help li {
+    margin: 6px 0;
+    list-style: none;
+}
+.mobile_help ul li a {
+    color: #505d6b;
+    font-size: 14px;
+    font-weight: normal;
+    overflow: hidden;
+    text-decoration: none;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-bottom: none;
+    display: block;
+}
+
 @media screen and (max-width: 768px) {
     .home__logo {
         margin-left: -11px;
     }
+
     .date_change {
-        padding-right: 10px;
+        position: fixed;
+        bottom: 9px;
+        right: 14px;
+        padding-right: 0;
     }
+
     .content {
         padding-top: 20px;
+    }
+
+    .mobile_help {
+        display: block;
     }
 }
