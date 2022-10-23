@@ -45,6 +45,10 @@
     display: block;
 }
 
+.sub_block {
+    margin-left: 2em;
+}
+
 @media screen and (max-width: 768px) {
     .home__logo {
         margin-left: -11px;

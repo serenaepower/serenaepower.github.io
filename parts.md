@@ -1,3 +1,56 @@
+Поиск разных запчастей по узлам из [<i class="fa fa-external-link" aria-hidden="true"></i> каталога Автодок](https://www.autodoc.ru/catalogs/original/list-nodes/nodes?catalogCode=NISSAN201809&carId=0&categoryId=16&carSsd=$*KwFZbXxlO1IeLyIDLA1iTwEVNTIsXFtdW0xKSQ8qFk4CHk9VEGxhOSsgTkdIAB1bWAJRSCc8SUZPAkEeGkkpX1tJRk8KVEoCUVtfQEkPDE0IZwJaNTpOR0hfMHpuEVkuKE5HSF4wAGtkSUZPWDQvPSBleXIzSEFOXjU_KnZpYy44TzEWAAAAAOgdQxE%3D$&ssd=JCpLd0ZtVWtOYUJHMGhFQjA4RXpKZGNENHFDZzBUWTJSaVpITmdkakFWS1hFZ2QyaHlUaUV6ZGpnMU1IWnZDWEpWTWoxNGR3cGhkbmx3Q0Q0aFFpa3JKRG93RlNseVpIYzlibmNDRWdZVUgzSWhJWEltUERaeGJuY1lBQzh2UFRrbWNHbDJGbUJuTHk4OU1UTWtjVzVrWUh3dlpuNTJid2x4WlFvRmNpRWhMUXNkQUdKbUVSZHlJU0VzQzJjRkYzWjVjR1JTUms4YkFoY0JESGQtY2poY1RSRVJCeEFSQjNBTmNBQUFBQUF6ci12NSQ%3D&wizzardSsd=undefined&t=1644916244255)
+
+## Воздушный фильтр
+
+оригинал `AY120-NS069`
+
+аналоги: `Vic A-2027V`, `Micro AV3780`, `Vic A-2025V(с мин доработкой)`
+
+## Масляный фильтр
+
+оригинал `Pitwork AY100-NS004`
+
+аналоги: `Nitto 4ND-110`, `Vic C224`
+
+## Шайба пробки сливной масляной
+
+`Nissan 11026-01M02`
+
+## Масло в редуктор
+
+Вместимость: 1,94л
+`Nissan ATF 999MP-MTS00-P`
+
+## Масло в двигатель
+
+Вместимость двигателя 3,3л до верхней риски
+
+Оригинал `KE90090143R`, аналоги `TOYOTA SP GF6 0W-20`, `ZIC ZERO 20 0W-20 артикул 162035` и др.ы
+
+## Тормозная жидкость
+
+`Nissan тормозная жидкость № 2500 (DOT3)`
+
+## Антифриз
+
+Охлаждающая жидкость двигателя: 6,96л, включает емкость уровня MAX (0,85л) резервуара
+
+Охлаждающая жидкость инвертора: 4,24л, включает емкость уровня MAX (0,57л) резервуара
+
+Оригинал `L255N`, аналоги `Nissan Super Long Life Coolant 999MP-L25500P`, `KE90100035`
+
+## Свечи зажигания
+
+Оригинал `22401-ED815`
+
+## Фильтр салонный
+
+Оригинал `Nissan 27277EN000`, аналог `MANN CU1936`
+
+## Рамки ПТФ
+
+оригинал `26910-5TF0A`, `26915-5TF0A`
+
 ## Рулевая тяга
 
 `D85215TB4A`, аналог `555 sr-n841`
@@ -6,9 +59,17 @@
 
 <img src="/assets/content/tie_rod.jpg" height="180" alt=""/>
 
+## Фара светодиодная передняя
+
+левая, оригинал `123456789YYY`, аналог `YYY012345689`
+
 ## Втулки стабилизатора
 
-Подходят от Nissan Serena C26, [<i class="fa fa-external-link" aria-hidden="true"></i> процесс замены (Drive2)](https://www.drive2.ru/l/630273601219598662/?m=630308235835867355&page=0#a630308235835867355)
+Втулка диаметром 27мм, оригинал `Nissan 54613-1VA6A`, но подходят 26мм от Nissan Serena C26, [<i class="fa fa-external-link" aria-hidden="true"></i> процесс замены (Drive2)](https://www.drive2.ru/l/630273601219598662/?m=630308235835867355&page=0#a630308235835867355)
+
+## Cайлентблоки задней балки
+
+оригинал `4872558010`
 
 ## Стеклоочистители
 
@@ -20,7 +81,11 @@
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Комплект резинок (wb)](https://wildberries.ru/catalog/62797544/detail.aspx)
 
+<div class="sub_block">
+
 ### Задний стеклоочиститель
+
+оригинал `287953x00b`
 
 `AY004H285S` Зимняя щётка заднего стеклоочистителя
 
@@ -30,6 +95,14 @@
 
 `LYNX LR30D` как родной встал
 
+</div>
+
 ## Ключ
 
 `203-jn0530`, также от 32 Nissan X-Trail'а подходит. 
+
+## Защита двигателя
+
+`alf15480st` - Отлично встала, без танцев с бубном. Родную картонку убрал.
+
+`Матадор 71401` - [<i class="fa fa-external-link" aria-hidden="true"></i> Ставится с доработкой (drive2)](https://www.drive2.ru/l/602899335100762165/) и подрезаниями пластика и пыльника
