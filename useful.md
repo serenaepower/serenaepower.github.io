@@ -4,19 +4,11 @@
 
 ## Номера
 
-<div class="sub_block">
-
 Квадраты спереди законом запрещены, разные сотрудники по-разному могут мыслить и трактовать статьей КОАП РФ, вплоть до лишения прав до полугода. Обсуждение темы в чате запрещено.
 
 Однако, прямоугольные номера в дорестайлинговой Серене спереди закрывают парктроники, откуда два решения:
 1. Отключение переднего парктроника через меню
-1. Установка номера через переходную рамку
-
-### Рамка
-
-> todo: ссылка
-
-</div>
+1. Установка номера через [<i class="fa fa-external-link" aria-h4idden="true"></i> рамку регулируемую (ozon)](https://www.ozon.ru/product/naklonnaya-jdm-ramka-reguliruemaya-carbon-423845944/)
 
 ## Устройство высоковольтной батареи
 
@@ -28,13 +20,17 @@
 
 ### Диски
 
+Сток размеры:
+* `R15` 5,5J*15 ET45
+* `R16` 6J*16 ET45
+
 Параметры:
-* Наша разболтовка: 5*114.3
-* Гайка: конус М12*1,25
-* Центральное отверстие: 66.1 или больше
-* Вылет: от 35 до 45
-* Ширина диска: от 5.5 до 7.5
-* Радиус: от R15 до R17, больше чаще всего не имеет смысла.
+* Сверловка: 5*114.3
+* Диаметр: 15..17, больше чаще всего не имеет смысла
+* Ширина: 5,5..6,5
+* Вылет: 45..51
+* Центральное отверстие: 66.1мм
+* Гайка: конус М12*1,25 108Nm
 
 Но нестандартные диски мерить обязательно, чтобы не задевали тормозные суппорты. Несмотря на мелкие тормоза &mdash; они сильно торчат, поэтому надо диски выбирать с большим х-фактором.
 
@@ -52,7 +48,8 @@
 
 ### Нанотрубки
 
-> todo: фото
+<img src="/assets/content/nano1.jpg" height="180" alt=""/>
+<img src="/assets/content/nano2.jpg" height="180" alt=""/>
 
 В некоторых автомобилях есть автоматические шторки, в этом случае, вероятно, можно обойтись без нанотрубок. Выглядят они так:
 
@@ -71,7 +68,11 @@
 
 ### Одеяло
 
-> todo:
+[<i class="fa fa-external-link" aria-h4idden="true"></i> Автоодеяло KILMAT №6 160х90 888KILMAT-F006](https://bi-bi.ru/product/e0000042216)
+
+[<i class="fa fa-external-link" aria-h4idden="true"></i> Автоодеяло «Автотепло» для Nissan Serena](https://avtoteplo.org/cars/nissan/serena)
+
+[<i class="fa fa-external-link" aria-h4idden="true"></i> Намордник](https://www.farpost.ru/tyumen/zapchasti/uteplitel-reshetki-radiatora-nissan-serena-96901039.html)
 
 ### Фен
 
@@ -91,11 +92,16 @@
 
 ### Пневмобаллоны
 
-> todo:
+По отзывам дает чуть ли не +3см:
+
+<img src="/assets/content/baloon1.jpg" height="180" alt=""/>
+<img src="/assets/content/baloon2.jpg" height="180" alt=""/>
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> Пневмобаллоны в пружины (ali)](https://sl.aliexpress.ru/p?key=0JLDIE)
 
 ### Шины
 
-> todo: 
+Например, ставим вместо штатных 195/65 R15 практически максимальные 205/70 R15, согласно [<i class="fa fa-external-link" aria-h4idden="true"></i> шинному калькулятору](https://shina-calc.ru/comparison/195-65-r15-and-205-70-r15/) получаем увеличение клиренса на `17мм`. 
 
 </div>
 
@@ -104,7 +110,6 @@
 Регулировка лед фар, короткая по вертикали, длинная по горизонтали:
 
 <img src="/assets/content/light_1.jpg" height="180" alt=""/>
-
 <img src="/assets/content/light_2.jpg" height="180" alt=""/>
 
 Но полноценно евро-свет, конечно, так не получить, необходимо менять линзы и отражатели с донора в сервисе, специализирующемся на фарах.
@@ -112,6 +117,16 @@
 При установке штырёк выступ не забыть спилить - сами поймёте какой, а диод модуль оставляете свой.
 
 [<i class="fa fa-external-link" aria-h4idden="true"></i> Евросвет и ходовые огни (Drive2)](https://www.drive2.ru/l/616358456936379511/)
+
+[<i class="fa fa-external-link" aria-h4idden="true"></i> Евросвет в ПРуль! (Drive2)](https://www.drive2.ru/l/601549684577668055/)
+
+<div class="sub_block">
+
+### ПТФ
+
+[<i class="fa fa-external-link" aria-h4idden="true"></i> AUXITO 2x 2000LM H11 светодиодный противотуманный фонарь (ali)](https://megabonus.com/y/j9F6Q)
+
+</div>
 
 ## Регистратор
 
@@ -137,6 +152,8 @@
 ### HDMI
 
 Иногда приходят автомобили с выведенным hdmi-кабелем в бардачок, туда же, где обычно usb-кабель выведен. Если не выведен, то [<i class="fa fa-external-link" aria-hidden="true"></i> покупаем кабель (ali)](https://aliexpress.ru/item/1005002906131300.html?sku_id=12000022708777773) и втыкаем в магнитолу, предварительно ее вынув, чтобы получить доступ к задней части.
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> HDMI кабель и игровая консоль Nintendo Switch (Drive2)](https://www.drive2.ru/l/616193530192203399/)
 
 ### Видео в движении
 
@@ -180,8 +197,9 @@
 
 ### Кнопки
 
-Во всех комплектациях только водительское стекло автоматическое, если хочется все, то вот:
-[<i class="fa fa-external-link" aria-hidden="true"></i> Блок автоматических кнопок (ali)](https://aliexpress.ru/item/4001361258630.html)
+Во всех комплектациях только водительское стекло автоматическое, если хочется все, то вот: [<i class="fa fa-external-link" aria-hidden="true"></i> Блок автоматических кнопок (ali)](https://aliexpress.ru/item/4001361258630.html)
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> Автоматические стеклоподъёмники в серену (Drive2)](https://www.drive2.ru/l/606293802373637015/)
 
 ### Дефлекторы
 
@@ -212,3 +230,31 @@
 ## Брызговики перед колесами
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Зачем нужны брызговики перед колесами](https://www.google.com/amp/s/www.zr.ru/content/amp/articles/919779-zachem-nuzhny-bryzgoviki-pered-k/)
+
+## Шумоизоляция
+
+[Фотоотчет полной шумки](https://disk.yandex.ru/d/txAV729JKqY-AA)
+
+## Отключение НЛО (пищалка при движении до 30км/ч)
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> Отключаем пищалку (drive sound) (Drive2)](https://www.drive2.ru/l/517237208814453319/)
+
+В программе [leafspy (android)](https://disk.yandex.ru/d/OpknMlv2WeZyTA) отключить две первые галочки:
+
+<img src="/assets/content/leafspy.jpg" height="180" alt=""/>
+
+Если первую не выключать, то пикает при начале движения, а затем тишина.
+
+## Беспроводная зарядка
+
+> Если кому интересно [<i class="fa fa-external-link" aria-hidden="true"></i> беспроводная зарядка с(ali)](https://aliexpress.ru/item/1005002495493232.html). Работает даже через резиновый коврик и телефон в чехле. Подключался к штекеру. Синий провод плюс. Чёрный провод минус. Включается когда зажигание включено. Выключается когда выключено.
+
+<img src="/assets/content/wc1.jpg" height="180" alt=""/>
+<img src="/assets/content/wc2.jpg" height="180" alt=""/>
+<img src="/assets/content/wc3.jpg" height="180" alt=""/>
+<img src="/assets/content/wc4.jpg" height="180" alt=""/>
+<img src="/assets/content/wc5.jpg" height="180" alt=""/>
+<img src="/assets/content/wc6.jpg" height="180" alt=""/>
+<img src="/assets/content/wc7.jpg" height="180" alt=""/>
+<img src="/assets/content/wc8.jpg" height="180" alt=""/>
+<img src="/assets/content/wc9.jpg" height="180" alt=""/>
