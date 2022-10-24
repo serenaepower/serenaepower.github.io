@@ -4,7 +4,7 @@
 
 оригинал `AY120-NS069`
 
-аналоги: `Vic A-2027V`, `Micro AV3780`, `Vic A-2025V(с мин доработкой)`
+аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `Vic A-2027V`](https://baza.drom.ru/vladivostok/sell_spare_parts/filtr-vozdushnyj-na-nissan-serena-hfc27-gibrid-e-power-ay120-ns069-vic-92441117.html), `Micro AV3780`, `Vic A-2025V(с мин доработкой)`
 
 ## Масляный фильтр
 
@@ -25,7 +25,7 @@
 
 Вместимость двигателя 3,3л до верхней риски
 
-Оригинал `KE90090143R`, аналоги `TOYOTA SP GF6 0W-20`, `ZIC ZERO 20 0W-20 артикул 162035` и др.ы
+Оригинал `KE90090143R`, аналоги `TOYOTA SP GF6 0W-20`, `ZIC ZERO 20 0W-20 артикул 162035` и др.
 
 ## Тормозная жидкость
 
@@ -65,7 +65,7 @@
 
 ## Втулки стабилизатора
 
-Втулка диаметром 27мм, оригинал `Nissan 54613-1VA6A`, но подходят 26мм от Nissan Serena C26, [<i class="fa fa-external-link" aria-hidden="true"></i> процесс замены (Drive2)](https://www.drive2.ru/l/630273601219598662/?m=630308235835867355&page=0#a630308235835867355)
+Втулка диаметром 27мм, оригинал `Nissan 54613-1VA6A`, но подходят 26мм от Nissan Serena C26, [<i class="fa fa-external-link" aria-hidden="true"></i> процесс замены (Drive2)](https://www.drive2.ru/l/630273601219598662/)
 
 ## Cайлентблоки задней балки
 

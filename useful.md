@@ -111,6 +111,8 @@
 В качестве донора могут выступать Koito, например с Nissan Qashqai, Nissan X-Trail 32, LC Prado 150.
 При установке штырёк выступ не забыть спилить - сами поймёте какой, а диод модуль оставляете свой.
 
+[<i class="fa fa-external-link" aria-h4idden="true"></i> Евросвет и ходовые огни (Drive2)](https://www.drive2.ru/l/616358456936379511/)
+
 ## Регистратор
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Программа для просмотра записей с sd-карты регистратора (EN)](https://www.kenwood.com/car/app/kenwood_drive_reviewer/eng/#download) позволяет видеть записи с gps-треками и данными скорости и акселерометра.
@@ -132,6 +134,10 @@
 
 <div class="sub_block">
 
+### HDMI
+
+Иногда приходят автомобили с выведенным hdmi-кабелем в бардачок, туда же, где обычно usb-кабель выведен. Если не выведен, то [<i class="fa fa-external-link" aria-hidden="true"></i> покупаем кабель (ali)](https://aliexpress.ru/item/1005002906131300.html?sku_id=12000022708777773) и втыкаем в магнитолу, предварительно ее вынув, чтобы получить доступ к задней части.
+
 ### Видео в движении
 
 Провод на массу замкнуть и будет разблокировано:
@@ -147,7 +153,7 @@
 
 ## OBD
 
-Приложение [<i class="fa fa-external-link" aria-hidden="true"></i> Carista OBD2 v6.6 PRO (Android)](hhttps://disk.yandex.ru/d/ldpJbXvbd0q7nA). свежие версии искать [<i class="fa fa-external-link" aria-hidden="true"></i> тут](https://4pda.to/forum/index.php?showtopic=634134&st=11480)
+Приложение [<i class="fa fa-external-link" aria-hidden="true"></i> Carista OBD2 v6.6 PRO (Android)](https://disk.yandex.ru/d/ldpJbXvbd0q7nA). свежие версии искать [<i class="fa fa-external-link" aria-hidden="true"></i> тут](https://4pda.to/forum/index.php?showtopic=634134&st=11480)
 
 Сканер должен быть ELM v1.5 с двумя платами.
 
@@ -202,3 +208,7 @@
 <img src="/assets/content/salon_filter_2.jpg" height="180" alt=""/>
 
 </div>
+
+## Брызговики перед колесами
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> Зачем нужны брызговики перед колесами](https://www.google.com/amp/s/www.zr.ru/content/amp/articles/919779-zachem-nuzhny-bryzgoviki-pered-k/)
