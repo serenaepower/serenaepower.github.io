@@ -65,6 +65,12 @@
 
 левая, оригинал `123456789YYY`, аналог `YYY012345689`
 
+## ПТФ
+
+[<i class="fa fa-external-link" aria-h4idden="true"></i> AUXITO 2x 2000LM H11 светодиодный противотуманный фонарь (ali)](https://megabonus.com/y/j9F6Q)
+
+[<i class="fa fa-external-link" aria-h4idden="true"></i> H11 лампа светодиодная (ozon)](https://www.ozon.ru/product/h11-lampa-svetodiodnaya-dlya-avto-2sht-led-c6-yarche-ksenona-12-24v-6000k-3800lm-farnye-223881557/)
+
 ## Втулки стабилизатора
 
 Втулка диаметром 27мм, оригинал `Nissan 54613-1VA6A`, но подходят 26мм от Nissan Serena C26, [<i class="fa fa-external-link" aria-hidden="true"></i> процесс замены (Drive2)](https://www.drive2.ru/l/630273601219598662/)
