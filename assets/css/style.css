@@ -49,6 +49,57 @@
     margin-left: 2em;
 }
 
+/*menu*/
+
+.menu .lvl1,
+.menu .lvl2,
+.menu .lvl3,
+.menu .lvl4,
+.menu .lvl5 {
+    border: 2px solid #666;
+    width: 450px;
+    line-height: .5;
+    padding: .25em 0;
+    text-align: center;
+    margin-top: -2px;
+    font-weight: 700;
+    position: relative;
+}
+.menu .mark {
+    color: red;
+}
+.menu p {
+    margin: 0;
+    padding: 0;
+    line-height: 1.2;
+}
+.menu p:nth-of-type(n+2) {
+    color: #999;
+}
+.menu .lvl2,
+.menu .lvl3,
+.menu .lvl4,
+.menu .lvl5,
+.menu .lvl3_block,
+.menu .lvl4_block,
+.menu .lvl5_block {
+    margin-left: 40px;
+}
+.menu .lvl2_block,
+.menu .lvl3_block,
+.menu .lvl4_block,
+.menu .lvl5_block {
+    border-left: 1px dashed #666;
+}
+.menu .number {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translate(0, -50%);
+    color: #999;
+    font-size: .9em;
+}
+
 @media screen and (max-width: 768px) {
     .home__logo {
         margin-left: -11px;
@@ -67,5 +118,32 @@
 
     .mobile_help {
         display: block;
+    }
+
+    .menu .lvl1,
+    .menu .lvl2,
+    .menu .lvl3,
+    .menu .lvl4,
+    .menu .lvl5 {
+        width: 100%;
+        text-align: left;
+        padding-left: 5px;
+    }
+    .menu .lvl2,
+    .menu .lvl3,
+    .menu .lvl4,
+    .menu .lvl5,
+    .menu .lvl3_block,
+    .menu .lvl4_block,
+    .menu .lvl5_block {
+        margin-left: 20px;
+    }
+    .menu .number {
+        left: auto;
+        right: 5px;
+        top: auto;
+        bottom: 5px;
+        transform: none;
+
     }
 }

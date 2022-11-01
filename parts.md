@@ -118,3 +118,9 @@
 ## Кислородный датчик
 
 `226A05CA0A` - нижний (второй)
+
+## АКБ
+
+Без доработок в штатные габариты вписывается да 60, например furukawa 60 75b24l, [<i class="fa fa-external-link" aria-hidden="true"></i> 70b24l (Drive2)](https://www.drive2.ru/l/609283924245365417/)
+
+С доработками можно [<i class="fa fa-external-link" aria-hidden="true"></i> аж 110d26l (Drive2)](https://www.drive2.ru/l/604170370542487654/)
