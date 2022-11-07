@@ -2,9 +2,11 @@
 
 ## Воздушный фильтр
 
-оригинал `AY120-NS069`
+оригинал `Nissan 16546-5TP0A`, `Pitwork AY120-NS069`
 
-аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `Vic A-2027V`](https://baza.drom.ru/vladivostok/sell_spare_parts/filtr-vozdushnyj-na-nissan-serena-hfc27-gibrid-e-power-ay120-ns069-vic-92441117.html), `Micro AV3780`, `Vic A-2025V(с мин доработкой)`
+аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `Vic A-2027V`](https://baza.drom.ru/vladivostok/sell_spare_parts/filtr-vozdushnyj-na-nissan-serena-hfc27-gibrid-e-power-ay120-ns069-vic-92441117.html), `Micro AV3780`, `Vic A-2025V(от енота, с мин. доработкой, но площадь поверхности сильно меньше)`, `AZUMI A22033`, `JS Asakashi A2029`, `Sat ST390002`, `Gparts LA-2547V`
+
+Размеры фильтра: 208 x 103 x 40 мм
 
 ## Масляный фильтр
 
