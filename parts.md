@@ -77,11 +77,25 @@
 
 Втулка диаметром 27мм, оригинал `Nissan 54613-1VA6A`, но подходят 26мм от Nissan Serena C26, [<i class="fa fa-external-link" aria-hidden="true"></i> процесс замены (Drive2)](https://www.drive2.ru/l/630273601219598662/)
 
-## Cайлентблоки задней балки
+## Cайлентблоки
+
+<div class="sub_block">
+
+### Передние
+
+> Кто менял сайлентблоки переднего подрамника, нужно брать от 32 х-трейла? Они у нас получается одинаковые с 26 Сереной?
+
+`Одинаковые и с 26 и с 25, люди ставят от кашкая`
+
+### Задние
 
 оригинал `4872558010`
 
+</div>
+
 ## Стеклоочистители
+
+<div class="sub_block">
 
 Длина 650мм и 350мм, толщина 10мм.
 
@@ -90,8 +104,6 @@
 [<i class="fa fa-external-link" aria-hidden="true"></i> Вот (ozon)](https://www.ozon.ru/product/k-t-rezinok-650-425-mm-dlya-gibridnyh-shchetok-mitsuba-osawa-57-seriya-masuma-mu-serii-h-416488772/?sh=yjrBUEfvkg) нашел резинки нужного профиля и это по сути оригинал, только короткий надо будет до 350 мм обрезать.
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Комплект резинок (wb)](https://wildberries.ru/catalog/62797544/detail.aspx)
-
-<div class="sub_block">
 
 ### Задний стеклоочиститель
 

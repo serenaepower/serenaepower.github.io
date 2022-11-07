@@ -176,11 +176,47 @@
 
 Сканер должен быть ELM v1.5 с двумя платами.
 
-## Коврики
+## Салон
+
+<div class="sub_block">
+
+### Коврики
 
 > Подскажите как снимаются крючки для ковриков
 
 <img src="/assets/content/hook.jpg" height="180" alt=""/>
+
+> Где купить 
+
+Что касается EVA-ковриков, то из того, что упоминается в чатe:
+- хвалят [<i class="fa fa-telegram" aria-hidden="true"></i> Николая из Челябинска](https://t.me/evaCHELru), тем более скидку дает
+- также компанию [<i class="fa fa-external-link" aria-hidden="true"></i> Евабел](https://evabel.ru/catalog/nissan/nissan-serena-e-power-c27-2016-2019), но к ней были претензии по качеству лекала
+
+!> Внимание! Надо быть с коврами аккуратно, были случаи западания педали газа из-за блокировки краем ковра, надо проверять и/или добавлять липучки и желательно штатные крючки использовать, препятствующие сползанию.
+
+### Беспроводная зарядка
+
+> Если кому интересно [<i class="fa fa-external-link" aria-hidden="true"></i> беспроводная зарядка с(ali)](https://aliexpress.ru/item/1005002495493232.html). Работает даже через резиновый коврик и телефон в чехле. Подключался к штекеру. Синий провод плюс. Чёрный провод минус. Включается когда зажигание включено. Выключается когда выключено.
+
+<img src="/assets/content/wc1.jpg" height="180" alt=""/>
+<img src="/assets/content/wc2.jpg" height="180" alt=""/>
+<img src="/assets/content/wc3.jpg" height="180" alt=""/>
+<img src="/assets/content/wc4.jpg" height="180" alt=""/>
+<img src="/assets/content/wc5.jpg" height="180" alt=""/>
+<img src="/assets/content/wc6.jpg" height="180" alt=""/>
+<img src="/assets/content/wc7.jpg" height="180" alt=""/>
+<img src="/assets/content/wc8.jpg" height="180" alt=""/>
+<img src="/assets/content/wc9.jpg" height="180" alt=""/>
+
+### Защита полозьев от грязи
+
+<div style="max-width: 700px">
+
+[zipper.mp4](/assets/content/zipper.mp4 ':include :type=video controls width=100%')
+
+</div>
+
+</div>
 
 ## Приборная панель
 
@@ -259,20 +295,6 @@
 
 Обогрев зеркал включается с обогревом заднего стекла
 
-## Беспроводная зарядка
-
-> Если кому интересно [<i class="fa fa-external-link" aria-hidden="true"></i> беспроводная зарядка с(ali)](https://aliexpress.ru/item/1005002495493232.html). Работает даже через резиновый коврик и телефон в чехле. Подключался к штекеру. Синий провод плюс. Чёрный провод минус. Включается когда зажигание включено. Выключается когда выключено.
-
-<img src="/assets/content/wc1.jpg" height="180" alt=""/>
-<img src="/assets/content/wc2.jpg" height="180" alt=""/>
-<img src="/assets/content/wc3.jpg" height="180" alt=""/>
-<img src="/assets/content/wc4.jpg" height="180" alt=""/>
-<img src="/assets/content/wc5.jpg" height="180" alt=""/>
-<img src="/assets/content/wc6.jpg" height="180" alt=""/>
-<img src="/assets/content/wc7.jpg" height="180" alt=""/>
-<img src="/assets/content/wc8.jpg" height="180" alt=""/>
-<img src="/assets/content/wc9.jpg" height="180" alt=""/>
-
 ## Предохранители
 
 <img src="/assets/content/preds.jpg" height="180" alt=""/>
@@ -298,3 +320,7 @@
 На приборной панели время меняется в настройках, смотрите [перевод меню](/manuals?id=Перевод-меню), настраивается в п5.
 
 На штатной магнитоле (1ХХ, 3ХХ, 5ХХ) время не поменять, оно берется с gps с японской таймзоной (GMT+9), его можно только выключить, чтобы не смущало в настройках навигации.
+
+## Калибровка камеры пропилота
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> Калибровка камеры распознавания знаков TSR (Drive2)](https://www.drive2.ru/l/498993837008486939/)
