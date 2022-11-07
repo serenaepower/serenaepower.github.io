@@ -1,6 +1,6 @@
 <div class="home__logo">
 
-![](assets/img/nissan_e_power_logo.png)
+![](assets/img/nissan_e_power_logo.png ':no-zoom')
 
 </div>
 
