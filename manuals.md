@@ -280,7 +280,7 @@
             <p>Lighting</p>
         </div>
         <div class="lvl3_block">
-            <div class="lvl3">
+            <div class="lvl3 propilot">
                 <p><span class="mark">*</span> Приветственный головной свет</p>
                 <p>ウェルカムヘッドライト</p>
                 <p>Welcome head light</p>
