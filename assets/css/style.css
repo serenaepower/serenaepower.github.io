@@ -91,13 +91,53 @@
 .menu .lvl5_block {
     border-left: 1px dashed #666;
 }
-.menu .number {
+
+.lvl1:before,
+.lvl2:before,
+.lvl3:before,
+.lvl4:before,
+.lvl5:before {
     position: absolute;
     left: 10px;
     top: 50%;
     transform: translate(0, -50%);
     color: #999;
     font-size: .9em;
+}
+.menu {
+    counter-reset: lvl0;
+}
+.lvl1:before {
+    content: counter(lvl0);
+    counter-increment: lvl0;
+}
+.lvl1 {
+    counter-reset: lvl1;
+}
+.lvl2:before {
+    content: counter(lvl0) "." counter(lvl1);
+    counter-increment: lvl1;
+}
+.lvl2 {
+    counter-reset: lvl2;
+}
+.lvl3:before {
+    content: counter(lvl0) "." counter(lvl1) "." counter(lvl2);
+    counter-increment: lvl2;
+}
+.lvl3 {
+    counter-reset: lvl3;
+}
+.lvl4:before {
+    content: counter(lvl0) "." counter(lvl1) "." counter(lvl2) "." counter(lvl3);
+    counter-increment: lvl3;
+}
+.lvl4 {
+    counter-reset: lvl4;
+}
+.lvl5:before {
+    content: counter(lvl0) "." counter(lvl1) "." counter(lvl2) "." counter(lvl3) "." counter(lvl4);
+    counter-increment: lvl4;
 }
 
 @media screen and (max-width: 768px) {
@@ -138,12 +178,19 @@
     .menu .lvl5_block {
         margin-left: 20px;
     }
-    .menu .number {
+    .lvl1:before,
+    .lvl2:before,
+    .lvl3:before,
+    .lvl4:before,
+    .lvl5:before {
         left: auto;
         right: 5px;
         top: auto;
         bottom: 5px;
         transform: none;
-
     }
+}
+
+#propilot {
+    vertical-align: text-bottom;
 }
