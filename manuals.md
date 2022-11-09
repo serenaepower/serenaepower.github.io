@@ -49,7 +49,7 @@
 
 > Пункты с `*` для тех, у кого есть пропилот.
 >
-> <label><input id="propilot" type="checkbox" onchange="propilot(this)" checked> У меня есть пропилот</label>
+> <label><input id="propilot_checkbox" type="checkbox" onchange="propilot(this)" checked> У меня есть пропилот</label>
 
 <div class="menu">
     <div class="lvl1">
