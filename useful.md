@@ -145,15 +145,16 @@
 
 ## Магнитола
 
-Вид задней части 517d-l
+Вид задней части 517 и 317
 
 <img src="/assets/content/517d.jpg" height="180" alt=""/>
+<img src="/assets/content/317d.jpg" height="180" alt=""/>
 
 <div class="sub_block">
 
 ### HDMI
 
-Иногда приходят автомобили с выведенным hdmi-кабелем в бардачок, туда же, где обычно usb-кабель выведен. Если не выведен, то [<i class="fa fa-external-link" aria-hidden="true"></i> покупаем кабель (ali)](https://aliexpress.ru/item/1005002906131300.html?sku_id=12000022708777773) и втыкаем в магнитолу, предварительно ее вынув, чтобы получить доступ к задней части.
+Иногда приходят автомобили с выведенным hdmi-кабелем в бардачок, туда же, где обычно usb-кабель выведен. Если не выведен, то [<i class="fa fa-external-link" aria-hidden="true"></i> покупаем кабель (ali)](https://aliexpress.ru/item/1005002906131300.html?sku_id=12000022708777773) и втыкаем в магнитолу (только 51Х), предварительно ее вынув, чтобы получить доступ к задней части.
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> HDMI кабель и игровая консоль Nintendo Switch (Drive2)](https://www.drive2.ru/l/616193530192203399/)
 
