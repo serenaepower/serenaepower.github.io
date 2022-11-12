@@ -52,6 +52,10 @@
 > <label class="restyle_label"><input id="restyle_checkbox" type="checkbox" onchange="hider(this, 'restyle')"> У меня рест</label>
 
 <div class="menu">
+        <div class="lvl1 restyle hide">
+            <p>Cтабилизация авто при заносе</p>
+            <p>VDC設定</p>
+        </div>
     <div class="lvl1">
         <p>Помощь в вождении</p>
         <p>運転⽀援システム</p>
