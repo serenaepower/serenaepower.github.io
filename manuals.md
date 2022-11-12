@@ -47,377 +47,364 @@
 
 ## Перевод меню
 
-> Пункты с `*` для тех, у кого есть пропилот.
->
-> <label><input id="propilot_checkbox" type="checkbox" onchange="propilot(this)" checked> У меня есть пропилот</label>
+> <label class="propilot_label"><input id="propilot_checkbox" type="checkbox" onchange="hider(this, 'propilot')" checked> У меня есть пропилот</label>
+> 
+> <label class="restyle_label"><input id="restyle_checkbox" type="checkbox" onchange="hider(this, 'restyle')"> У меня рест</label>
 
 <div class="menu">
     <div class="lvl1">
         <p>Помощь в вождении</p>
         <p>運転⽀援システム</p>
-        <p>Driver assistance</p>
     </div>
     <div class="lvl2_block">
         <div class="lvl2 propilot">
-            <p><span class="mark">*</span> Пропилот</p>
+            <p>Пропилот</p>
             <p>プロパイロット</p>
-            <p>Propilot</p>
         </div>
         <div class="lvl3_block propilot">
             <div class="lvl3">
                 <p>Подруливание</p>
                 <p>ハンドル⽀援</p>
-                <p>Steering assist</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Полоса</p>
             <p>側⽅⽀援</p>
-            <p>Lane</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>Предупреждение о выезде с полосы</p>
                 <p>LDW（⾞線逸脱警報)</p>
-                <p>Lane departure warning</p>
             </div>
             <div class="lvl3 propilot">
-                <p><span class="mark">*</span> Предотвращение выезда с полосы</p>
+                <p>Предотвращение выезда с полосы</p>
                 <p>LDP（⾞線逸脱防⽌⽀援</p>
-                <p>Lane departure prevention</p>
+            </div>
+        </div>
+        <div class="lvl2 restyle hide">
+            <p>Слепые зоны</p>
+            <p>後側方支援</p>
+        </div>
+        <div class="lvl3_block restyle hide">
+            <div class="lvl3 restyle hide">
+                <p>Предупреждение об опасности</p>
+                <p>BSW（後側方車両検知警報）</p>
+            </div>
+            <div class="lvl3 restyle hide">
+                <p>Предотвращение столкновения</p>
+                <p>BSI（後側方衝突防止支援</p>
+            </div>
+            <div class="lvl3 restyle hide">
+                <p>Яркость индикатора</p>
+                <p>インジケータの明るさ設定</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Аварийный тормоз</p>
             <p>エマージェンシーブレーキ</p>
-            <p>Emergency brake</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>Система</p>
                 <p>システム</p>
-                <p>System</p>
             </div>
         </div>
         <div class="lvl2 propilot">
-            <p><span class="mark">*</span> Распознавание дорожных знаков</p>
+            <p>Распознавание дорожных знаков</p>
             <p>速度標識表示</p>
-            <p>Traffic sign recognition</p>
         </div>
         <div class="lvl2 propilot">
-            <p><span class="mark">*</span> Распознавание знака кирпич</p>
+            <p>Распознавание знака кирпич</p>
             <p>通路標識表示</p>
-            <p>Stop sign recognition</p>
         </div>
         <div class="lvl2 propilot">
-            <p><span class="mark">*</span> Помощники парковки</p>
+            <p>Помощники парковки</p>
             <p>駐⾞⽀援</p>
-            <p>Parking aids</p>
         </div>
         <div class="lvl3_block propilot">
-            <div class="lvl3">
+            <div class="lvl3 propilot">
                 <p>Парктроники</p>
                 <p>ソナー</p>
-                <p>Sonars</p>
             </div>
             <div class="lvl4_block">
-                <div class="lvl4">
+                <div class="lvl4 propilot">
                     <p>Передние датчики</p>
                     <p>フロントソナー</p>
-                    <p>Front sensor</p>
                 </div>
-                <div class="lvl4">
+                <div class="lvl4 propilot">
                     <p>Задние датчики</p>
                     <p>リアソナー</p>
-                    <p>Rear sensor</p>
                 </div>
-                <div class="lvl4">
+                <div class="lvl4 propilot">
                     <p>Переключение экрана</p>
                     <p>ソナー画⾯切替</p>
-                    <p>Screen switch</p>
                 </div>
-                <div class="lvl4">
+                <div class="lvl4 propilot">
                     <p>Громкость</p>
                     <p>ボリューム</p>
-                    <p>Volume</p>
                 </div>
                 <div class="lvl5_block">
-                    <div class="lvl5">
+                    <div class="lvl5 propilot">
                         <p>Высокая</p>
                         <p>緑</p>
-                        <p>High</p>
                     </div>
-                    <div class="lvl5">
+                    <div class="lvl5 propilot">
                         <p>Средняя</p>
                         <p>⻩</p>
-                        <p>Medium</p>
                     </div>
-                    <div class="lvl5">
+                    <div class="lvl5 propilot">
                         <p>Низкая</p>
                         <p>⾚</p>
-                        <p>Low</p>
                     </div>
                 </div>
-                <div class="lvl4">
+                <div class="lvl4 propilot">
                     <p>Чувствительность</p>
                     <p>センサー感度</p>
-                    <p>Sensitivity</p>
                 </div>
                 <div class="lvl5_block">
-                    <div class="lvl5">
+                    <div class="lvl5 propilot">
                         <p>Далеко</p>
-                        <p>Far</p>
                     </div>
-                    <div class="lvl5">
+                    <div class="lvl5 propilot">
                         <p>Средне</p>
-                        <p>Middle</p>
                     </div>
-                    <div class="lvl5">
+                    <div class="lvl5 propilot">
                         <p>Близко</p>
-                        <p>Near</p>
                     </div>
                 </div>
             </div>
-            <div class="lvl3">
+            <div class="lvl3 propilot">
                 <p>Определение движущихся объектов</p>
                 <p>移動物検知</p>
-                <p>Detect moving objects</p>
+            </div>
+            <div class="lvl3 restyle hide">
+                <p>Оповещение о перекрестном движении RCTA</p>
+                <p>クロストラフィックアラート</p>
             </div>
         </div>
         <div class="lvl2 propilot">
-            <p><span class="mark">*</span> Оповещение водителя о вилянии</p>
+            <p>Оповещение водителя о вилянии</p>
             <p>ふらつき警報</p>
-            <p>Driver attention alert</p>
         </div>
         <div class="lvl2">
             <p>Таймер</p>
             <p>⾛⾏時</p>
-            <p>Timer alert</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>--мин / --мин</p>
                 <p>---分／---分</p>
-                <p>--min / --min</p>
             </div>
             <div class="lvl3">
                 <p>Сброс</p>
                 <p>リセット</p>
-                <p>Reset</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Оповещение о низкой температуре</p>
             <p>凍結注意</p>
-            <p>Low temperature alert</p>
         </div>
     </div>
     <div class="lvl1">
         <p>Настройки экрана</p>
         <p>画⾯カスタマイズ</p>
-        <p>Customize display</p>
     </div>
     <div class="lvl2_block">
         <div class="lvl2">
             <p>Выбор главного меню</p>
             <p>表⺬項⽬選択</p>
-            <p>Main menu selection</p>
+        </div>
+        <div class="lvl2 restyle hide">
+            <p>Настройка режима ECO</p>
+            <p>ECOモード カスタマイズ</p>
+        </div>
+        <div class="lvl3_block restyle hide">
+            <div class="lvl3 restyle hide">
+                <p>?</p>
+                <p>クルーズコントロール</p>
+            </div>
+            <div class="lvl3 restyle hide">
+                <p>?</p>
+                <p>空調</p>
+            </div>
+        </div>
+        <div class="lvl2 restyle hide">
+            <p>Настройка режима Смарт</p>
+            <p>Smartモード カスタマイズ</p>
+        </div>
+        <div class="lvl3_block restyle hide">
+            <div class="lvl3 restyle">
+                <p>?</p>
+                <p>クルーズコントロール</p>
+            </div>
+            <div class="lvl3 restyle">
+                <p>?</p>
+                <p>空調</p>
+            </div>
         </div>
         <div class="lvl2">
             <p>Настройки ЭКО информации</p>
             <p>エコ情報設定</p>
-            <p>ECO info settings</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>ЭКО индикатор</p>
                 <p>エコインジケータ</p>
-                <p>ECO indicator</p>
             </div>
             <div class="lvl3">
                 <p>ЭКО отчет о поездке</p>
                 <p>エコドライブレポート</p>
-                <p>ECO drive report</p>
             </div>
             <div class="lvl3">
                 <p>Просмотр истории</p>
                 <p>燃費履歴リセット</p>
-                <p>View history</p>
             </div>
         </div>
         <div class="lvl2 propilot">
-            <p><span class="mark">*</span> Переключение экрана при включении ПроПилота</p>
+            <p>Переключение экрана при включении ПроПилота</p>
             <p>プロパイロット画⾯切替</p>
-            <p>Propilot screen transition</p>
         </div>
         <div class="lvl2">
             <p>Эффекты экрана "Добро пожаловать"</p>
             <p>メータ演出</p>
-            <p>Welcome effect</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>Эффекты ЭКО индикатора</p>
                 <p>エコインジケータ演出</p>
-                <p>ECO indicator effect</p>
             </div>
             <div class="lvl3">
                 <p>Анимация</p>
                 <p>ディスプレイ演出</p>
-                <p>Animation</p>
             </div>
         </div>
     </div>
     <div class="lvl1">
     <p>Настройки автомобиля</p>
     <p>⾞両設定</p>
-    <p>Vehicle settings</p>
     </div>
     <div class="lvl2_block">
         <div class="lvl2">
             <p>Освещение</p>
             <p>ライト/照明</p>
-            <p>Lighting</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3 propilot">
-                <p><span class="mark">*</span> Приветственный головной свет</p>
+                <p>Приветственный головной свет</p>
                 <p>ウェルカムヘッドライト</p>
-                <p>Welcome head light</p>
             </div>
             <div class="lvl3">
                 <p>Автоматическое включение ламп салона</p>
                 <p>⾃動室内灯</p>
-                <p>Auto room lamp</p>
             </div>
             <div class="lvl3">
                 <p>Чувствительность освещения</p>
                 <p>オートライト感度調整</p>
-                <p>Light sensitivity</p>
             </div>
             <div class="lvl4_block">
                 <div class="lvl4">
                     <p>Очень быстро</p>
-                    <p>Very fast</p>
                 </div>
                 <div class="lvl4">
                     <p>Быстро</p>
-                    <p>Fast</p>
                 </div>
                 <div class="lvl4">
                     <p>Стандарт</p>
-                    <p>Standard</p>
                 </div>
                 <div class="lvl4">
                     <p>Медленно</p>
-                    <p>Slow</p>
                 </div>
             </div>
         </div>
         <div class="lvl2">
             <p>Поворотники</p>
             <p>⽅向指⺬器</p>
-            <p>Turn indicator</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>3 моргания при касании</p>
                 <p>コンフォートフラッシャー</p>
-                <p>3 flash on</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Блокировка</p>
             <p>ロック</p>
-            <p>Locking</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>Внешние кнопки блокировки</p>
                 <p>I-keyエントリー</p>
-                <p>Ext. door switch</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Стеклоочистители</p>
             <p>ワイパー</p>
-            <p>Wipers</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>В зависимости от скорости</p>
                 <p>⾞速連動</p>
-                <p>Speed dependent</p>
             </div>
             <div class="lvl3">
                 <p>При движении задним ходом</p>
                 <p>リバース連動</p>
-                <p>Reverse link</p>
             </div>
+        </div>
+        <div class="lvl2 restyle hide">
+            <p>Автоматическое складывание зеркал</p>
+            <p>ミラー自動格納</p>
         </div>
     </div>
     <div class="lvl1">
         <p>Обслуживание</p>
         <p>メンテナンス</p>
-        <p>Maintenance</p>
     </div>
     <div class="lvl2_block">
         <div class="lvl2">
             <p>Масло и фильтр</p>
             <p>オイル/オイルフィルター</p>
-            <p>Oil and filter</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>--Км / --Км</p>
-                <p>--Km / --Km</p>
             </div>
             <div class="lvl3">
                 <p>Сброс</p>
-                <p>Reset</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Шины</p>
             <p>タイヤ</p>
-            <p>Tyre</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>--Км / --Км</p>
-                <p>--Km / --Km</p>
             </div>
             <div class="lvl3">
                 <p>Сброс</p>
-                <p>Reset</p>
             </div>
         </div>
         <div class="lvl2">
             <p>Прочее</p>
             <p>ユーザー</p>
-            <p>Other</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
                 <p>--Км / --Км</p>
-                <p>--Km / --Km</p>
             </div>
             <div class="lvl3">
                 <p>Сброс</p>
-                <p>Reset</p>
             </div>
         </div>
     </div>
     <div class="lvl1">
         <p>Часы</p>
         <p>時計</p>
-        <p>Clock</p>
     </div>
     <div class="lvl2_block">
         <div class="lvl2">
             <p>Настройка часов</p>
             <p>時計調整</p>
-            <p>Set clock</p>
         </div>
         <div class="lvl2">
             <p>12H/24H</p>
@@ -426,13 +413,11 @@
     <div class="lvl1">
         <p>Единицы измерения</p>
         <p>単位</p>
-        <p>Unit</p>
     </div>
     <div class="lvl2_block">
         <div class="lvl2">
             <p>Километраж/Топливо</p>
             <p>距離／燃費</p>
-            <p>Mileage/Fuel</p>
         </div>
         <div class="lvl3_block">
             <div class="lvl3">
@@ -447,12 +432,10 @@
         <div class="lvl2">
             <p>Температура</p>
             <p>温度</p>
-            <p>Temperature</p>
         </div>
     </div>
     <div class="lvl1">
         <p>Сброс до заводских настроек</p>
         <p>⼯場出荷設定</p>
-        <p>Factory reset</p>
     </div>
 </div>

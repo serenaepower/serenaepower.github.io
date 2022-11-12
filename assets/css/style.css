@@ -65,9 +65,6 @@
     font-weight: 700;
     position: relative;
 }
-.menu .mark {
-    color: red;
-}
 .menu p {
     margin: 0;
     padding: 0;
@@ -191,6 +188,26 @@
     }
 }
 
-#propilot_checkbox {
+#propilot_checkbox,
+#restyle_checkbox {
     vertical-align: text-bottom;
+}
+.hide {
+    display: none;
+}
+.menu .lvl1.propilot,
+.menu .lvl2.propilot,
+.menu .lvl3.propilot,
+.menu .lvl4.propilot,
+.menu .lvl5.propilot,
+.propilot_label {
+    background-color: #def;
+}
+.menu .lvl1.restyle,
+.menu .lvl2.restyle,
+.menu .lvl3.restyle,
+.menu .lvl4.restyle,
+.menu .lvl5.restyle,
+.restyle_label {
+    background-color: #dfd;
 }
