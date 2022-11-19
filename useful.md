@@ -9,6 +9,9 @@
 Однако, прямоугольные номера в дорестайлинговой Серене спереди закрывают парктроники, откуда два решения:
 1. Отключение переднего парктроника через меню
 1. Установка номера через [<i class="fa fa-external-link" aria-h4idden="true"></i> рамку регулируемую (ozon)](https://www.ozon.ru/product/naklonnaya-jdm-ramka-reguliruemaya-carbon-423845944/)
+1. "Вот так установил рамку. Пришлось ее немного подрезать под болты (итог, рамка встала чуть ниже) и сонарам не мешает."
+
+<img src="/assets/content/number.jpg" height="180" alt=""/>
 
 ## Устройство высоковольтной батареи
 
@@ -38,7 +41,7 @@
 
 Штатные 195/65 R15 (чаще всего это Dunlop Enasave RV505).
 
-`15` ставят до 205/70 R15
+`15` ставят до 205/70 R15, 215/65 R15
 
 `16` ставят до 205/65 R16, 215/60 R16
 
@@ -109,6 +112,8 @@
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Пневмобаллоны в пружины (ali)](https://sl.aliexpress.ru/p?key=0JLDIE)
 
+[<i class="fa fa-external-link" aria-hidden="true"></i> Пневмобаллоны (Новосибирск)](https://polimer-nsk.ru/category/view?ProductSearch%5Bcategory_id%5D=50&ProductSearch%5Bbrand%5D=NISSAN&ProductSearch%5Bcontent%5D=SERENA&ProductSearch%5Bproduction%5D=2018)
+
 ### Шины
 
 Например, ставим вместо штатных 195/65 R15 практически максимальные 205/70 R15, согласно [<i class="fa fa-external-link" aria-h4idden="true"></i> шинному калькулятору](https://shina-calc.ru/comparison/195-65-r15-and-205-70-r15/) получаем увеличение клиренса на `17мм`. 
@@ -133,6 +138,8 @@
 ## Регистратор
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Программа для просмотра записей с sd-карты регистратора (EN)](https://www.kenwood.com/car/app/kenwood_drive_reviewer/eng/#download) позволяет видеть записи с gps-треками и данными скорости и акселерометра.
+
+Переключение регистратора в другой режим: идём [<i class="fa fa-external-link" aria-hidden="true"></i> в меню, как тут (Drive2)](https://www.drive2.ru/l/614341952611045987/), в конце третья кнопка, переключает регистратор в нужный режим.
 
 ## Сигнализация
 
@@ -238,7 +245,13 @@
 
 Во всех комплектациях только водительское стекло автоматическое, если хочется все, то вот: [<i class="fa fa-external-link" aria-hidden="true"></i> Блок автоматических кнопок (ali)](https://aliexpress.ru/item/4001361258630.html)
 
-[<i class="fa fa-external-link" aria-hidden="true"></i> Автоматические стеклоподъёмники в серену (Drive2)](https://www.drive2.ru/l/606293802373637015/)
+[<i class="fa fa-external-link" aria-hidden="true"></i> Автоматические стеклоподъемники в серену (Drive2)](https://www.drive2.ru/l/606293802373637015/)
+
+> Так выглядит китайский блок стеклоподъемника и вот подключение проводов его проводки в родную клавишу блок складывания зеркал, остальные разъемы подходят
+> 
+> <img src="/assets/content/raiser1.jpg" height="180" alt=""/>
+> <img src="/assets/content/raiser2.jpg" height="180" alt=""/>
+> <img src="/assets/content/raiser3.jpg" height="180" alt=""/>
 
 ### Дефлекторы
 
@@ -325,3 +338,23 @@
 ## Калибровка камеры пропилота
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Калибровка камеры распознавания знаков TSR (Drive2)](https://www.drive2.ru/l/498993837008486939/)
+
+## Снятие накладки двери
+
+[<i class="fa fa-youtube-play" aria-hidden="true"></i> Видео (JP)](https://youtu.be/v3htSn2QUQ4)
+
+## Втулки стабилизатора
+
+[<i class="fa fa-external-link" aria-hidden="true"></i> Замена втулок стабилизатора (Drive2)](https://www.drive2.ru/l/630273601219598662/)
+
+## Кондиционер
+
+### Задний
+
+> Кондер на задней печке выключается по след логике, включаем зад климат на АВТО!!, НАПРАВЛЕНИЕ БУДЕТ В НОГИ!, затем переходим в меню передней печки и выключаем кондер. Если направление любое кроме авто в ноги то кондер выключается спустя только несколько минут.
+
+## Включение нейтрали
+
+На заведенной машине держать тормоз и селектор удерживать в положении N - 5-10 сек.
+
+Если автомобиль не заводится, то нейтраль можно поставить только с разбором редуктора "снять привод и повернуть вал"
