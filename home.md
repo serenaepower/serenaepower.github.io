@@ -11,3 +11,9 @@
 [filename](_sidebar.md ':include')
 
 </div>
+
+<div class="donation-wrapper">
+
+[filename](_donation.md ':include')
+
+</div>
