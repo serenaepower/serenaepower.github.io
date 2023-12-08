@@ -23,6 +23,8 @@
 Вместимость: 1,94л
 `Nissan ATF 999MP-MTS00-P` (!) двух бутылок не хватает, недолив порядка 100гр
 
+Аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `ZIC ATF MULTI LF`](https://zicoil.ru/products/transmissionnye-masla/zic-atf-multi-lf.html)
+
 ## Масло в двигатель
 
 Вместимость двигателя 3,3л до верхней риски
