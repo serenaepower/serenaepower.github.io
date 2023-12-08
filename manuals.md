@@ -19,7 +19,7 @@
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Краткая инструкция 2019 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1908/manual_t00qg5tl2a.pdf)
 
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2018 (`RU`)](https://disk.yandex.ru/i/xF6JWpXeF3hXig)
-[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2018 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1803/manual_t00um5tl0a.pdf)
+[<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2018 (`JP`)](http://www.nissan.co.jp/SP/OM/SERENA/1803/manual_t00um5tl0a.pdf)
 [<i class="fa fa-file-pdf-o" aria-hidden="true"></i> Полная инструкция 2019 (JP)](http://www.nissan.co.jp/SP/OM/SERENA/1908/manual_t00um5tl1a.pdf)
 
 [<i class="fa fa-external-link" aria-hidden="true"></i> Интерактивная инструкция 2018 (JP)](http://www.nissan.co.jp/OPTIONAL-PARTS/NAVIOM/SERENA_SPECIAL/E-POWER/1809/index.html)
