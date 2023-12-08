@@ -21,7 +21,7 @@
 ## Масло в редуктор
 
 Вместимость: 1,94л
-`Nissan ATF 999MP-MTS00-P` (!) двух бутылок не хватает, недолив порядка 100гр
+`Nissan ATF 999MP-MTS00-P` при правильной заливке двух бутылок должно хватать
 
 Аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `ZIC ATF MULTI LF`](https://zicoil.ru/products/transmissionnye-masla/zic-atf-multi-lf.html)
 
