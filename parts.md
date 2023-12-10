@@ -2,17 +2,17 @@
 
 ## Воздушный фильтр
 
-оригинал `Nissan 16546-5TP0A`, `Pitwork AY120-NS069`
+Оригинал `Nissan 16546-5TP0A`, `Pitwork AY120-NS069`
 
-аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `Vic A-2027V`](https://baza.drom.ru/vladivostok/sell_spare_parts/filtr-vozdushnyj-na-nissan-serena-hfc27-gibrid-e-power-ay120-ns069-vic-92441117.html), `Micro AV3780`, `Vic A-2025V(от енота, с мин. доработкой, но площадь поверхности сильно меньше)`, `AZUMI A22033`, `JS Asakashi A2029`, `Sat ST390002`, `Gparts LA-2547V`
+Аналоги: [<i class="fa fa-external-link" aria-hidden="true"></i> `Vic A-2027V`](https://baza.drom.ru/vladivostok/sell_spare_parts/filtr-vozdushnyj-na-nissan-serena-hfc27-gibrid-e-power-ay120-ns069-vic-92441117.html), `Micro AV3780`, `Vic A-2025V(от енота, с мин. доработкой, но площадь поверхности сильно меньше)`, `AZUMI A22033`, `JS Asakashi A2029`, `Sat ST390002`, `Gparts LA-2547V`
 
 Размеры фильтра: 208 x 103 x 40 мм
 
 ## Масляный фильтр
 
-оригинал `Pitwork AY100-NS004`
+Оригинал: `Pitwork AY100-NS004`
 
-аналоги: `Nitto 4ND-110`, `Vic C224`
+Аналоги: `Nitto 4ND-110`, `Vic C224`, [<i class="fa fa-external-link" aria-hidden="true"></i> `Vic C307`](https://www.oil-club.ru/forum/topic/38087-vic-c-307-honda-hyundai-kia-mazda-mitsubishi-subaru/)
 
 ## Шайба пробки сливной масляной
 
@@ -29,7 +29,7 @@
 
 Вместимость двигателя 3,3л до верхней риски
 
-Оригинал `KE90090143R`, аналоги `TOYOTA SP GF6 0W-20`, `ZIC ZERO 20 0W-20 артикул 162035` и др.
+Оригинал: `KE90090143R`, аналоги `TOYOTA SP GF6 0W-20`, `ZIC ZERO 20 0W-20 артикул 162035` и др.
 
 ## Тормозные диски
 
@@ -55,11 +55,15 @@
 
 > Если менять обычно, то примерно 8л надо в два контура.
 
-Оригинал `L255N`, аналоги `Nissan Super Long Life Coolant 999MP-L25500P`, `KE90100035`
+Оригинал: `L255N` 
+
+Аналоги: `Nissan Super Long Life Coolant 999MP-L25500P`, `KE90100035`, [<i class="fa fa-external-link" aria-hidden="true"></i> `TCL Power Coolant BLUE`](https://tcl-japan.ru/catalog/product/28) , [<i class="fa fa-external-link" aria-hidden="true"></i> `Coolstream JPN Blue`](https://www.cool-stream.ru/catalog/antifreeze/jpn-blue/)
 
 ## Свечи зажигания
 
-Оригинал `22401-ED815`, 3шт
+Оригинал: `22401-ED815`, 3шт
+
+Аналоги: `Denso IXEH20TT`
 
 ## Катушка зажигания
 
@@ -71,7 +75,7 @@
 
 ## Рамки ПТФ
 
-оригинал `26910-5TF0A`, `26915-5TF0A`
+Оригинал: `26910-5TF0A`, `26915-5TF0A`
 
 ## Рулевая тяга
 
